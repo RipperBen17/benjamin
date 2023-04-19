@@ -1,0 +1,38 @@
+h1{
+    color:black;
+    font-size: 50px;;
+    font-weight: bold;
+}
+#boton1 {
+    background-color:#1f1b1b;
+    color: #ff6200;
+    border: none ;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+html {
+    background-image: url(https://i.pinimg.com/originals/64/ab/0b/64ab0b030c777504c4148562c9184174.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center -160px;
+    background-size: 100% auto;
+}
+
+#boton2 {
+    background-color:#1f1b1b;
+    color: #ff6200;
+    border: none ;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
